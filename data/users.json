@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": 1,
+        "first_name": "mega",
+        "last_name": "mega",
+        "email": "youssef@gmail.com",
+        "password": "00800",
+        "phone_number": "01203116454"
+    },
+    {
+        "user_id": 2,
+        "first_name": "mody",
+        "last_name": "mody",
+        "email": "mody@gmail.com",
+        "password": "00100",
+        "phone_number": "01141114444"
+    }
+]
